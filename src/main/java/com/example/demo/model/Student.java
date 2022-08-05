@@ -6,14 +6,14 @@ import javax.persistence.Id;
 @Entity
 public class Student {
 	@Id
-private int studentid;
+private Integer studentid;
 private String studentname;
 private String studentemail;
 private int studentage;
-public int getStudentid() {
+public Integer getStudentid() {
 	return studentid;
 }
-public void setStudentid(int studentid) {
+public void setStudentid(Integer studentid) {
 	this.studentid = studentid;
 }
 public String getStudentname() {
