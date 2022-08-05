@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 !SESSION 2022-08-04 09:47:30.368 -----------------------------------------------
+=======
+!SESSION 2022-08-05 00:21:07.735 -----------------------------------------------
+>>>>>>> fbed30fc2e0f6d71f0cb556b4d979924e5924c70
 =======
 !SESSION 2022-08-04 01:58:38.495 -----------------------------------------------
 >>>>>>> e6c85e9353fc7834b40c30f804bc2ccfde8c0c0a
@@ -11,9 +15,15 @@ Framework arguments:  -product org.springframework.boot.ide.branding.sts4
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 !ENTRY org.eclipse.jface 2 0 2022-08-04 09:48:29.529
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-08-04 09:48:29.529
+=======
+!ENTRY org.eclipse.jface 2 0 2022-08-05 00:21:46.081
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-05 00:21:46.081
+>>>>>>> fbed30fc2e0f6d71f0cb556b4d979924e5924c70
 =======
 !ENTRY org.eclipse.jface 2 0 2022-08-04 01:59:31.357
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
@@ -25,7 +35,11 @@ Binding(CTRL+SHIFT+T,
 		Open a type in a Java editor,
 		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62f73b0c,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@46146832,
+>>>>>>> fbed30fc2e0f6d71f0cb556b4d979924e5924c70
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@28befd62,
 >>>>>>> e6c85e9353fc7834b40c30f804bc2ccfde8c0c0a
@@ -37,11 +51,19 @@ Binding(CTRL+SHIFT+T,
 		,
 		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7dd2a5f7,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-08-04 09:48:29.529
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1d6014a7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-05 00:21:46.081
+>>>>>>> fbed30fc2e0f6d71f0cb556b4d979924e5924c70
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10f60e36,
 		,,true),null),
@@ -55,7 +77,11 @@ Binding(ALT+SHIFT+R,
 		Rename the selected element,
 		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1d45c4b7,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7575f7e1,
+>>>>>>> fbed30fc2e0f6d71f0cb556b4d979924e5924c70
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@8ad182c,
 >>>>>>> e6c85e9353fc7834b40c30f804bc2ccfde8c0c0a
@@ -67,7 +93,11 @@ Binding(ALT+SHIFT+R,
 		Rename the selected item,
 		Category(org.eclipse.ui.category.file,File,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@46146832,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4626f584,
+>>>>>>> fbed30fc2e0f6d71f0cb556b4d979924e5924c70
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7e84af34,
 >>>>>>> e6c85e9353fc7834b40c30f804bc2ccfde8c0c0a
@@ -75,6 +105,7 @@ Binding(ALT+SHIFT+R,
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.eclipse.egit.ui 2 0 2022-08-04 09:49:05.103
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
@@ -134,6 +165,9 @@ Binding(ALT+SHIFT+R,
 
 !ENTRY org.eclipse.egit.ui 2 0 2022-08-05 00:31:58.268
 =======
+!ENTRY org.eclipse.egit.ui 2 0 2022-08-05 00:22:18.743
+>>>>>>> fbed30fc2e0f6d71f0cb556b4d979924e5924c70
+=======
 !ENTRY org.eclipse.egit.ui 2 0 2022-08-04 01:59:49.493
 >>>>>>> e6c85e9353fc7834b40c30f804bc2ccfde8c0c0a
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
@@ -142,6 +176,7 @@ not correct please set the HOME environment variable and restart Eclipse. Otherw
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.eclipse.ui 2 2 2022-08-05 00:32:03.956
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
@@ -175,6 +210,10 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.linuxtools.docker.ui.
 	at org.eclipse.linuxtools.docker.core.DockerConnectionManager.lambda$0(DockerConnectionManager.java:61)
 	at java.base/java.lang.Thread.run(Thread.java:833)
 =======
+!ENTRY org.eclipse.ui 2 2 2022-08-05 00:22:48.699
+>>>>>>> fbed30fc2e0f6d71f0cb556b4d979924e5924c70
+=======
 !ENTRY org.eclipse.ui 2 2 2022-08-04 02:08:15.149
+>>>>>>> e6c85e9353fc7834b40c30f804bc2ccfde8c0c0a
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
 >>>>>>> e6c85e9353fc7834b40c30f804bc2ccfde8c0c0a
